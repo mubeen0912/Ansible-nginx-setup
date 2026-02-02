@@ -14,6 +14,5 @@ on EC2 instances using Ansible roles.
 - Role-based automation
 
 ## Run the playbook
-bash
 ansible-playbook -i inventory site.yml
 
